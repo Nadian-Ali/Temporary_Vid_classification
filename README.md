@@ -1,5 +1,7 @@
 # Temporary_Vid_classification
 
+![image ](master/image/repository/model.png)
+
 Colab and google drive are used as processing and storage resources
 
 to run copy data to any path and change the rood folder 
