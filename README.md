@@ -1,6 +1,6 @@
 # Temporary_Vid_classification
 
-![image ](master/image/repository/model.png)
+![image ](https://github.com/Nadian-Ali/Temporary_Vid_classification/main/image/model.png)
 
 Colab and google drive are used as processing and storage resources
 
